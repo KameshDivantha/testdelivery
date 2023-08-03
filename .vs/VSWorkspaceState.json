@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Api",
+    "\\app\\Http\\Controllers\\Api\\V1",
+    "\\app\\Models",
+    "\\public",
+    "\\public\\uploads",
+    "\\public\\uploads\\images",
+    "\\routes"
+  ],
+  "PreviewInSolutionExplorer": false
+}
